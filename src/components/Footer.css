@@ -1,0 +1,11 @@
+/* Footer.css */
+.footer {
+    background-color: #333; /* Change to your desired background color */
+    color: white; /* Text color */
+    padding: 10px; /* Spacing */
+    text-align: center; /* Center text */
+    position: relative; /* Ensure it appears in the normal document flow */
+    bottom: 0; /* Position it at the bottom */
+    width: 100%; /* Full width */
+  }
+  
